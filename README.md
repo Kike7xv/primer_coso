@@ -19,5 +19,5 @@ EL Markdown es un estandar en los repositorios de GitHub y otros repositorios...
 - [ ] los chays
 
 ## Una URL
-(ir al tec de Mérida)[https://www.merida.tecnm.mx/]
+[ir al tec de Mérida](https://www.merida.tecnm.mx/)
 
